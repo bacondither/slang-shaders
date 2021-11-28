@@ -7,4 +7,5 @@ scale_type0 = source
 scale0 = 1.0
 srgb_framebuffer0 = true
 
-filter_linear1 = false 
+filter_linear1 = false
+wrap_mode1 = clamp_to_edge
